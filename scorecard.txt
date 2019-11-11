@@ -1,0 +1,13 @@
+name opl  accuracy 0.000000 level  3 gross speed  6.000000 net speed  0.000000
+name 1  accuracy -1.#IND00 level  1 gross speed  0.000000 net speed  0.000000
+name tt  accuracy 0.000000 level  1 gross speed  37.777779 net speed  0.000000
+name joga  accuracy nan level  3 gross speed  nan net speed  nan
+name joga2  accuracy 0.000000 level  2 gross speed  44.999996 net speed  0.000000
+name kamlesh  accuracy 100.000000 level  1 gross speed  2.307692 net speed  2.307692
+name qw  accuracy 0.000000 level  1 gross speed  0.831409 net speed  0.000000
+name kamlesh  accuracy 0.000000 level  3 gross speed  44.999996 net speed  0.000000
+name saksham  accuracy 100.000000 level  2 gross speed  25.714285 net speed  25.714285
+name 1111  accuracy nan level  1 gross speed  nan net speed  nan
+name wq  accuracy nan level  1 gross speed  nan net speed  nan
+name dwd  accuracy 100.000000 level  1 gross speed  12.631579 net speed  12.631579
+namename onion  accuracy 57.142857 level  2 gross speed  17.500000 net speed  10.000000
